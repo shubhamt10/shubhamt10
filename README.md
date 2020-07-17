@@ -1,16 +1,24 @@
-### Hi there 👋
+# Shubham Tripathi
 
-<!--
-**shubhamt10/shubhamt10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer
 
-Here are some ideas to get you started:
+### Experience : 
+  1) Backend Developer Intern - Credicxo (July 2020 - Present)
+  2) Android Developer Intern - Iniesta Webtech Solution Pvt. Ltd. (June 2019- July 2019) 
+  
+### Skills : 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  1) Languages: Python, C++, Core Java
+  2) Mobile Application Development (Flutter | Android)
+  3) Django Development
+  4) Machine Leaning and Deep Learning
+  5) Other Skills- SQL, Git, Firebase, XML
+  
+### My Profiles:
+ 1) [LinkedIn - https://www.linkedin.com/in/shubhamt10](https://www.linkedin.com/in/shubhamt10)
+ 
+ 2) [Hackerrank - https://www.hackerrank.com/shubhamt10](https://www.hackerrank.com/shubhamt10)
+ 
+ 3) [LeetCode - https://leetcode.com/shubhamt10/](https://leetcode.com/shubhamt10/)
+
+
